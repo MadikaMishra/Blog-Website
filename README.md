@@ -33,4 +33,4 @@ The Blog Website is a platform for users to create, share, and read blog posts o
 
 ## Contact
 
-For questions, reach me at [your-madikamishra.com].
+For questions, reach me at [your-madikamishra@gmail.com].
